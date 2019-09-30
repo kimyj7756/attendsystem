@@ -38,4 +38,4 @@ __김연준, 김명수, 이세민__
  * 언어: php
  * 서버/DB: XAMPP(Apache, MySQL)
 
-##### Copyright 2019. 멋쟁이 사자처럼(김연준, 김명수, 이세민, (주)Waytech) inc. all rights reserved
+##### Copyright 2019. (주)Waytech(김연준, 김명수, 이세민) inc. all rights reserved
