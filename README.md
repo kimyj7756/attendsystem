@@ -3,7 +3,7 @@
 
 __김연준, 김명수, 이세민__
 
-<img src="/images/likelion_logo.png" width="300" height="300">
+ <p align="center"><img src="http://taking.kr/blog/wp-content/uploads/2014/08/laravel.png"></p>
 
 ### 0. 개요
 ------------------------------
@@ -26,15 +26,16 @@ __김연준, 김명수, 이세민__
 
 ### 3. 참고
 ------------------------------
- * 멋쟁이사자처럼(Likelion) 강의 사이트
- * 추가 예정
+ * https://laravel.kr/                                -> 공식 한국 페이지
+ * https://laravel.co.kr/
+ * https://www.youtube.com/playlist?list=PL_1fv4_9uPOOFzzvhfnXEa0toN_JzAqnz
+ * http://ezphp.net/lecture/
  
 ### 4. Detail
 ------------------------------
- * Framework: Django
+ * Framework: Laravel
  * Tool: Visual Code
- * 언어: Python, JavaScript
- * 기타: HTML, CSS
- * 서버: Heroku / DB : Postgres SQL
- 
-##### Copyright 2019. 멋쟁이 사자처럼(김연준, 고주원, 양소영, 이세민) inc. all rights reserved
+ * 언어: php
+ * 서버/DB: XAMPP(Apache, MySQL)
+
+##### Copyright 2019. 멋쟁이 사자처럼(김연준, 김명수, 이세민, (주)Waytech) inc. all rights reserved
